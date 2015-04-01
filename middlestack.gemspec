@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['undr@yandex.ru']
   spec.summary       = %q{The Middlestack is a simple and convenient way to build and run your own middleware stack for ruby.}
   spec.description   = %q{The Middlestack is a simple and convenient way to build and run your own middleware stack for ruby.}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/undr/middlestack'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
