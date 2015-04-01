@@ -4,6 +4,7 @@ The Middlestack is a simple and convenient way to build and run of your own midd
 
 [![Build Status](https://travis-ci.org/undr/middlestack.svg)](https://travis-ci.org/undr/middlestack)
 [![Code Climate](https://codeclimate.com/github/undr/middlestack/badges/gpa.svg)](https://codeclimate.com/github/undr/middlestack)
+[![Code Climate](https://codeclimate.com/github/undr/middlestack/badges/gpa.svg)](https://codeclimate.com/github/undr/middlestack)
 
 ## Installation
 
