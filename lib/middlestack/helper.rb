@@ -7,7 +7,11 @@ module Middlestack
     end
 
     def run_middlewares(*args, &block)
+      block = ->(env){ run(env) } unless block_given?
       self.class.stack.to_app(block).call(*args)
+    end
+
+    def run(*args)
     end
 
     module ClassMethods
